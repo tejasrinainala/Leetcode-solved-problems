@@ -3,7 +3,6 @@
  * @return {boolean}
  */
 var strongPasswordCheckerII = function(password) {
-    let flag;
     let lc=false;
     let uc=false;
     let sc=false;
